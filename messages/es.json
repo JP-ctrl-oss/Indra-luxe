@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "title": "Indra Luxe — Ropa de Lujo de India y Tailandia",
+    "description": "Descubre ropa artesanal de lujo importada de India y Tailandia. Piezas únicas elaboradas a mano por artesanos. Envío mundial."
+  },
+  "nav": {
+    "home": "Inicio",
+    "shop": "Tienda",
+    "process": "Nuestro Proceso",
+    "cart": "Carrito",
+    "admin": "Panel",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión"
+  },
+  "locale": {
+    "label": "Idioma",
+    "es": "Español",
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+    "hi": "हिन्दी",
+    "th": "ไทย"
+  },
+  "currency": {
+    "label": "Moneda",
+    "USD": "Dólar US",
+    "EUR": "Euro",
+    "GBP": "Libra",
+    "THB": "Baht Tailandés",
+    "INR": "Rupia India"
+  },
+  "hero": {
+    "title": "Arte que Viste el Alma",
+    "subtitle": "Ropa artesanal de lujo importada de India y Tailandia. Cada pieza cuenta una historia de tradición, maestría y comercio justo.",
+    "ctaShop": "Explorar Colección",
+    "ctaProcess": "Descubre Nuestro Proceso"
+  },
+  "home": {
+    "featuredTitle": "Piezas Destacadas",
+    "featuredSubtitle": "Seleccionadas por su excepcionalidad artesanal",
+    "categoriesTitle": "Origen de Nuestras Piezas",
+    "categoriesSubtitle": "Dos culturas milenarias, un estándar de excelencia",
+    "indiaTitle": "India",
+    "indiaDescription": "Sedas bordadas a mano, técnicas ancestrales de block-printing y tejidos que han pasado de generación en generación.",
+    "thailandTitle": "Tailandia",
+    "thailandDescription": "Algodón orgánico, tintes naturales y el refinamiento de la tradición textil del Sudeste Asiático.",
+    "testimonialsTitle": "Lo que dicen nuestros clientes",
+    "newsletterTitle": "Únete al Círculo Indra",
+    "newsletterSubtitle": "Recibe acceso exclusivo a nuevas colecciones y historias de nuestros artesanos.",
+    "newsletterPlaceholder": "Tu correo electrónico",
+    "newsletterButton": "Suscribirse"
+  },
+  "shop": {
+    "title": "Colección",
+    "subtitle": "Cada pieza es única, elaborada a mano por maestros artesanos",
+    "filters": {
+      "all": "Todo",
+      "category": "Categoría",
+      "origin": "Origen",
+      "price": "Precio",
+      "sort": "Ordenar por",
+      "sortNewest": "Más recientes",
+      "sortPriceLow": "Precio: menor a mayor",
+      "sortPriceHigh": "Precio: mayor a menor"
+    },
+    "noResults": "No se encontraron productos",
+    "loadMore": "Cargar más"
+  },
+  "product": {
+    "addToCart": "Añadir al Carrito",
+    "outOfStock": "Agotado",
+    "selectSize": "Selecciona talla",
+    "sizeGuide": "Guía de tallas",
+    "description": "Descripción",
+    "details": "Detalles",
+    "material": "Material",
+    "origin": "Origen",
+    "care": "Cuidado",
+    "relatedTitle": "También te puede gustar"
+  },
+  "cart": {
+    "title": "Tu Carrito",
+    "empty": "Tu carrito está vacío",
+    "emptyCta": "Explorar colección",
+    "quantity": "Cantidad",
+    "size": "Talla",
+    "remove": "Eliminar",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "shippingFree": "Gratis",
+    "total": "Total",
+    "checkout": "Finalizar Compra",
+    "continueShopping": "Seguir comprando",
+    "freeShipping": "Envío gratis en pedidos superiores a"
+  },
+  "checkout": {
+    "title": "Finalizar Compra",
+    "shippingInfo": "Información de Envío",
+    "paymentInfo": "Pago Seguro",
+    "fullName": "Nombre completo",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "address": "Dirección",
+    "city": "Ciudad",
+    "state": "Provincia/Estado",
+    "postalCode": "Código postal",
+    "country": "País",
+    "orderSummary": "Resumen del Pedido",
+    "payNow": "Pagar Ahora",
+    "processing": "Procesando...",
+    "securePayment": "Pago seguro con Stripe",
+    "error": "Ha ocurrido un error. Por favor, inténtalo de nuevo."
+  },
+  "success": {
+    "title": "¡Gracias por tu Compra!",
+    "subtitle": "Tu pedido ha sido confirmado",
+    "orderNumber": "Número de pedido",
+    "emailSent": "Te hemos enviado un correo de confirmación a",
+    "continueShopping": "Seguir comprando"
+  },
+  "process": {
+    "title": "Nuestro Proceso",
+    "subtitle": "Del corazón de Asia a tu guardarropa. Descubre cómo cada pieza cobra vida.",
+    "heroCta": "Ver el recorrido",
+    "section1Title": "Origen",
+    "section1Text": "Cada pieza comienza su viaje en pequeños talleres familiares de Rajasthan, Kerala, Chiang Mai y Bangkok. Seleccionamos directamente a los artesanos, sin intermediarios.",
+    "section2Title": "Selección de Materiales",
+    "section2Text": "Trabajamos exclusivamente con seda natural, algodón orgánico, lino puro y tintes derivados de plantas. Cada material es inspeccionado individualmente.",
+    "section3Title": "Arte y Maestría",
+    "section3Text": "Nuestros artesanos practican técnicas transmitidas durante siglos: bordado zardozi, block-printing manual, tejido en telar de cintura y teñido batik.",
+    "section4Title": "Comercio Justo",
+    "section4Text": "Pagamos precios justos que superan el 40% del estándar local. Financiamos educación para los hijos de nuestros artesanos y garantizamos condiciones dignas de trabajo.",
+    "section5Title": "Control de Calidad",
+    "section5Text": "Cada pieza pasa por 3 niveles de inspección antes de ser empaquetada. Verificamos costuras, acabados, color y caída del tejido.",
+    "section6Title": "Envío Mundial",
+    "section6Text": "Empaquetamos con materiales sostenibles y enviamos a más de 50 países. El seguimiento es completo y el envío está asegurado."
+  },
+  "admin": {
+    "title": "Panel de Administración",
+    "loginTitle": "Acceso Administrativo",
+    "loginSubtitle": "Este panel es exclusivo para administradores autorizados.",
+    "loginButton": "Acceder con Email",
+    "stats": {
+      "totalOrders": "Pedidos Totales",
+      "totalRevenue": "Ingresos Totales",
+      "totalProducts": "Productos",
+      "pendingOrders": "Pendientes"
+    },
+    "products": {
+      "title": "Catálogo de Productos",
+      "newProduct": "Nuevo Producto",
+      "editProduct": "Editar Producto",
+      "tabs": {
+        "basic": "Información Básica",
+        "translations": "Traducciones",
+        "images": "Imágenes"
+      },
+      "fields": {
+        "slug": "Slug (URL)",
+        "basePrice": "Precio Base (USD)",
+        "category": "Categoría",
+        "tags": "Etiquetas",
+        "origin": "Origen",
+        "material": "Material",
+        "care": "Cuidados",
+        "sizes": "Tallas disponibles",
+        "stock": "Stock por talla",
+        "isActive": "Activo",
+        "isFeatured": "Destacado"
+      },
+      "save": "Guardar Producto",
+      "saving": "Guardando...",
+      "delete": "Eliminar",
+      "deleteConfirm": "¿Estás seguro de eliminar este producto?"
+    },
+    "orders": {
+      "title": "Gestión de Pedidos",
+      "status": "Estado",
+      "paymentStatus": "Pago",
+      "customer": "Cliente",
+      "total": "Total",
+      "date": "Fecha",
+      "actions": "Acciones",
+      "updateStatus": "Actualizar Estado",
+      "viewDetails": "Ver Detalle"
+    },
+    "media": {
+      "title": "Biblioteca de Medios",
+      "upload": "Subir Imagen",
+      "dragDrop": "Arrastra y suelta imágenes aquí",
+      "orClick": "o haz clic para seleccionar"
+    }
+  },
+  "errors": {
+    "generic": "Ha ocurrido un error",
+    "unauthorized": "No tienes permiso para acceder a esta página",
+    "productNotFound": "Producto no encontrado",
+    "sizeRequired": "Por favor selecciona una talla",
+    "outOfStock": "Producto agotado en la talla seleccionada"
+  }
+}

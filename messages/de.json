@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "title": "Indra Luxe — Luxuskleidung aus Indien & Thailand",
+    "description": "Entdecken Sie handgefertigte Luxuskleidung aus Indien und Thailand. Einzigartige Stücke. Weltweiter Versand."
+  },
+  "nav": {
+    "home": "Startseite",
+    "shop": "Shop",
+    "process": "Unser Prozess",
+    "cart": "Warenkorb",
+    "admin": "Dashboard",
+    "login": "Anmelden",
+    "logout": "Abmelden"
+  },
+  "locale": {
+    "label": "Sprache",
+    "es": "Español",
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+    "hi": "हिन्दी",
+    "th": "ไทย"
+  },
+  "currency": {
+    "label": "Währung",
+    "USD": "US-Dollar",
+    "EUR": "Euro",
+    "GBP": "Pfund",
+    "THB": "Thailändischer Baht",
+    "INR": "Indische Rupie"
+  },
+  "hero": {
+    "title": "Kunst, die die Seele kleidet",
+    "subtitle": "Handwerkliche Luxuskleidung aus Indien und Thailand. Jedes Stück erzählt eine Geschichte von Tradition, Meisterschaft und fairem Handel.",
+    "ctaShop": "Kollektion erkunden",
+    "ctaProcess": "Unseren Prozess entdecken"
+  },
+  "home": {
+    "featuredTitle": "Ausgewählte Stücke",
+    "featuredSubtitle": "Ausgewählt für ihre außergewöhnliche Handwerkskunst",
+    "categoriesTitle": "Ursprung unserer Stücke",
+    "categoriesSubtitle": "Zwei jahrtausendealte Kulturen, ein Standard der Exzellenz",
+    "indiaTitle": "Indien",
+    "indiaDescription": "Handbestickte Seiden, uralte Blockdruck-Techniken und Stoffe, die von Generation zu Generation weitergegeben werden.",
+    "thailandTitle": "Thailand",
+    "thailandDescription": "Biobaumwolle, natürliche Farbstoffe und die Raffinesse der südostasiatischen Textiltradition.",
+    "testimonialsTitle": "Was unsere Kunden sagen",
+    "newsletterTitle": "Dem Indra-Kreis beitreten",
+    "newsletterSubtitle": "Erhalten Sie exklusiven Zugang zu neuen Kollektionen und Geschichten unserer Handwerker.",
+    "newsletterPlaceholder": "Ihre E-Mail-Adresse",
+    "newsletterButton": "Abonnieren"
+  },
+  "shop": {
+    "title": "Kollektion",
+    "subtitle": "Jedes Stück ist einzigartig, handgefertigt von Meisterhandwerkern",
+    "filters": {
+      "all": "Alle",
+      "category": "Kategorie",
+      "origin": "Ursprung",
+      "price": "Preis",
+      "sort": "Sortieren nach",
+      "sortNewest": "Neueste",
+      "sortPriceLow": "Preis: aufsteigend",
+      "sortPriceHigh": "Preis: absteigend"
+    },
+    "noResults": "Keine Produkte gefunden",
+    "loadMore": "Mehr laden"
+  },
+  "product": {
+    "addToCart": "In den Warenkorb",
+    "outOfStock": "Ausverkauft",
+    "selectSize": "Größe wählen",
+    "sizeGuide": "Größen guide",
+    "description": "Beschreibung",
+    "details": "Details",
+    "material": "Material",
+    "origin": "Ursprung",
+    "care": "Pflege",
+    "relatedTitle": "Das könnte Ihnen auch gefallen"
+  },
+  "cart": {
+    "title": "Ihr Warenkorb",
+    "empty": "Ihr Warenkorb ist leer",
+    "emptyCta": "Kollektion erkunden",
+    "quantity": "Menge",
+    "size": "Größe",
+    "remove": "Entfernen",
+    "subtotal": "Zwischensumme",
+    "shipping": "Versand",
+    "shippingFree": "Kostenlos",
+    "total": "Gesamt",
+    "checkout": "Zur Kasse",
+    "continueShopping": "Weiter einkaufen",
+    "freeShipping": "Kostenloser Versand ab"
+  },
+  "checkout": {
+    "title": "Zur Kasse",
+    "shippingInfo": "Versandinformationen",
+    "paymentInfo": "Sichere Zahlung",
+    "fullName": "Vollständiger Name",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "address": "Adresse",
+    "city": "Stadt",
+    "state": "Bundesland/Provinz",
+    "postalCode": "Postleitzahl",
+    "country": "Land",
+    "orderSummary": "Bestellübersicht",
+    "payNow": "Jetzt bezahlen",
+    "processing": "Wird verarbeitet...",
+    "securePayment": "Sichere Zahlung mit Stripe",
+    "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+  },
+  "success": {
+    "title": "Vielen Dank für Ihren Einkauf!",
+    "subtitle": "Ihre Bestellung wurde bestätigt",
+    "orderNumber": "Bestellnummer",
+    "emailSent": "Wir haben Ihnen eine Bestätigungs-E-Mail gesendet an",
+    "continueShopping": "Weiter einkaufen"
+  },
+  "process": {
+    "title": "Unser Prozess",
+    "subtitle": "Vom Herzen Asiens in Ihren Kleiderschrank. Entdecken Sie, wie jedes Stück zum Leben erweckt wird.",
+    "heroCta": "Die Reise sehen",
+    "section1Title": "Ursprung",
+    "section1Text": "Jedes Stück beginnt seine Reise in kleinen Familienwerkstätten in Rajasthan, Kerala, Chiang Mai und Bangkok. Wir wählen Handwerker direkt aus, ohne Zwischenhändler.",
+    "section2Title": "Materialauswahl",
+    "section2Text": "Wir arbeiten ausschließlich mit Naturseide, Bio-Baumwolle, reinem Leinen und pflanzlichen Farbstoffen. Jedes Material wird einzeln geprüft.",
+    "section3Title": "Kunst & Meisterschaft",
+    "section3Text": "Unsere Handwerker praktizieren seit Jahrhunderten weitergegebene Techniken: Zardozi-Stickerei, handgemachten Blockdruck, Weben am Webstuhl und Batik-Färbung.",
+    "section4Title": "Fairen Handel",
+    "section4Text": "Wir zahlen faire Preise, die 40% über dem lokalen Standard liegen. Wir finanzieren die Bildung der Kinder unserer Handwerker und garantieren würdige Arbeitsbedingungen.",
+    "section5Title": "Qualitätskontrolle",
+    "section5Text": "Jedes Stück durchläuft 3 Inspektionsstufen, bevor es verpackt wird. Wir prüfen Nähte, Verarbeitung, Farbe und Stofffall.",
+    "section6Title": "Weltweiter Versand",
+    "section6Text": "Wir verpacken mit nachhaltigen Materialien und versenden in über 50 Länder. Die Sendungsverfolgung ist vollständig und der Versand ist versichert."
+  },
+  "admin": {
+    "title": "Verwaltungsbereich",
+    "loginTitle": "Administrativer Zugang",
+    "loginSubtitle": "Dieser Bereich ist exklusiv für autorisierte Administratoren.",
+    "loginButton": "Mit E-Mail zugreifen",
+    "stats": {
+      "totalOrders": "Gesamtbestellungen",
+      "totalRevenue": "Gesamteinnahmen",
+      "totalProducts": "Produkte",
+      "pendingOrders": "Ausstehend"
+    },
+    "products": {
+      "title": "Produktkatalog",
+      "newProduct": "Neues Produkt",
+      "editProduct": "Produkt bearbeiten",
+      "tabs": {
+        "basic": "Grundinformationen",
+        "translations": "Übersetzungen",
+        "images": "Bilder"
+      },
+      "fields": {
+        "slug": "Slug (URL)",
+        "basePrice": "Grundpreis (USD)",
+        "category": "Kategorie",
+        "tags": "Tags",
+        "origin": "Ursprung",
+        "material": "Material",
+        "care": "Pflegehinweise",
+        "sizes": "Verfügbare Größen",
+        "stock": "Bestand nach Größe",
+        "isActive": "Aktiv",
+        "isFeatured": "Empfohlen"
+      },
+      "save": "Produkt speichern",
+      "saving": "Speichern...",
+      "delete": "Löschen",
+      "deleteConfirm": "Sind Sie sicher, dass Sie dieses Produkt löschen möchten?"
+    },
+    "orders": {
+      "title": "Bestellverwaltung",
+      "status": "Status",
+      "paymentStatus": "Zahlung",
+      "customer": "Kunde",
+      "total": "Gesamt",
+      "date": "Datum",
+      "actions": "Aktionen",
+      "updateStatus": "Status aktualisieren",
+      "viewDetails": "Details anzeigen"
+    },
+    "media": {
+      "title": "Medienbibliothek",
+      "upload": "Bild hochladen",
+      "dragDrop": "Bilder hierher ziehen und ablegen",
+      "orClick": "oder klicken Sie zum Auswählen"
+    }
+  },
+  "errors": {
+    "generic": "Ein Fehler ist aufgetreten",
+    "unauthorized": "Sie haben keine Berechtigung, auf diese Seite zuzugreifen",
+    "productNotFound": "Produkt nicht gefunden",
+    "sizeRequired": "Bitte wählen Sie eine Größe",
+    "outOfStock": "Produkt in der gewählten Größe ausverkauft"
+  }
+}

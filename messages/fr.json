@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "title": "Indra Luxe — Vêtements de Luxe d'Inde et de Thaïlande",
+    "description": "Découvrez des vêtements artisanaux de luxe importés d'Inde et de Thaïlande. Pièces uniques faites à la main. Expédition mondiale."
+  },
+  "nav": {
+    "home": "Accueil",
+    "shop": "Boutique",
+    "process": "Notre Processus",
+    "cart": "Panier",
+    "admin": "Tableau de bord",
+    "login": "Connexion",
+    "logout": "Déconnexion"
+  },
+  "locale": {
+    "label": "Langue",
+    "es": "Español",
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+    "hi": "हिन्दी",
+    "th": "ไทย"
+  },
+  "currency": {
+    "label": "Devise",
+    "USD": "Dollar US",
+    "EUR": "Euro",
+    "GBP": "Livre",
+    "THB": "Baht Thaïlandais",
+    "INR": "Roupie Indienne"
+  },
+  "hero": {
+    "title": "L'Art qui Habille l'Âme",
+    "subtitle": "Vêtements artisanaux de luxe importés d'Inde et de Thaïlande. Chaque pièce raconte une histoire de tradition, de maîtrise et de commerce équitable.",
+    "ctaShop": "Explorer la Collection",
+    "ctaProcess": "Découvrir Notre Processus"
+  },
+  "home": {
+    "featuredTitle": "Pièces en Vedette",
+    "featuredSubtitle": "Sélectionnées pour leur artisanat exceptionnel",
+    "categoriesTitle": "Origine de Nos Pièces",
+    "categoriesSubtitle": "Deux cultures millénaires, un standard d'excellence",
+    "indiaTitle": "Inde",
+    "indiaDescription": "Soies brodées à la main, techniques ancestrales de block-printing et tissus transmis de génération en génération.",
+    "thailandTitle": "Thaïlande",
+    "thailandDescription": "Coton biologique, teintures naturelles et le raffinement de la tradition textile de l'Asie du Sud-Est.",
+    "testimonialsTitle": "Ce que disent nos clients",
+    "newsletterTitle": "Rejoignez le Cercle Indra",
+    "newsletterSubtitle": "Recevez un accès exclusif aux nouvelles collections et aux histoires de nos artisans.",
+    "newsletterPlaceholder": "Votre adresse e-mail",
+    "newsletterButton": "S'abonner"
+  },
+  "shop": {
+    "title": "Collection",
+    "subtitle": "Chaque pièce est unique, fabriquée à la main par des maîtres artisans",
+    "filters": {
+      "all": "Tout",
+      "category": "Catégorie",
+      "origin": "Origine",
+      "price": "Prix",
+      "sort": "Trier par",
+      "sortNewest": "Plus récents",
+      "sortPriceLow": "Prix : croissant",
+      "sortPriceHigh": "Prix : décroissant"
+    },
+    "noResults": "Aucun produit trouvé",
+    "loadMore": "Charger plus"
+  },
+  "product": {
+    "addToCart": "Ajouter au Panier",
+    "outOfStock": "Épuisé",
+    "selectSize": "Sélectionner la taille",
+    "sizeGuide": "Guide des tailles",
+    "description": "Description",
+    "details": "Détails",
+    "material": "Matériau",
+    "origin": "Origine",
+    "care": "Entretien",
+    "relatedTitle": "Vous aimerez aussi"
+  },
+  "cart": {
+    "title": "Votre Panier",
+    "empty": "Votre panier est vide",
+    "emptyCta": "Explorer la collection",
+    "quantity": "Quantité",
+    "size": "Taille",
+    "remove": "Supprimer",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "shippingFree": "Gratuite",
+    "total": "Total",
+    "checkout": "Commander",
+    "continueShopping": "Continuer les achats",
+    "freeShipping": "Livraison gratuite pour les commandes supérieures à"
+  },
+  "checkout": {
+    "title": "Finaliser la Commande",
+    "shippingInfo": "Informations de Livraison",
+    "paymentInfo": "Paiement Sécurisé",
+    "fullName": "Nom complet",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "address": "Adresse",
+    "city": "Ville",
+    "state": "Province",
+    "postalCode": "Code postal",
+    "country": "Pays",
+    "orderSummary": "Résumé de la Commande",
+    "payNow": "Payer Maintenant",
+    "processing": "Traitement en cours...",
+    "securePayment": "Paiement sécurisé avec Stripe",
+    "error": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "success": {
+    "title": "Merci pour votre Achat !",
+    "subtitle": "Votre commande a été confirmée",
+    "orderNumber": "Numéro de commande",
+    "emailSent": "Nous vous avons envoyé un e-mail de confirmation à",
+    "continueShopping": "Continuer les achats"
+  },
+  "process": {
+    "title": "Notre Processus",
+    "subtitle": "Du cœur de l'Asie à votre garde-robe. Découvrez comment chaque pièce prend vie.",
+    "heroCta": "Voir le parcours",
+    "section1Title": "Origine",
+    "section1Text": "Chaque pièce commence son voyage dans de petits ateliers familiaux du Rajasthan, du Kerala, de Chiang Mai et de Bangkok. Nous sélectionnons directement les artisans, sans intermédiaires.",
+    "section2Title": "Sélection des Matériaux",
+    "section2Text": "Nous travaillons exclusivement avec de la soie naturelle, du coton biologique, du lin pur et des teintures végétales. Chaque matériau est inspecté individuellement.",
+    "section3Title": "Art et Maîtrise",
+    "section3Text": "Nos artisans pratiquent des techniques transmises depuis des siècles : broderie zardozi, block-printing manuel, tissage au métier à tissage de taille et teinture batik.",
+    "section4Title": "Commerce Équitable",
+    "section4Text": "Nous payons des prix équitables qui dépassent de 40% le standard local. Nous finançons l'éducation des enfants de nos artisans et garantissons des conditions de travail dignes.",
+    "section5Title": "Contrôle Qualité",
+    "section5Text": "Chaque pièce passe par 3 niveaux d'inspection avant d'être emballée. Nous vérifions les coutures, les finitions, la couleur et la drapé du tissu.",
+    "section6Title": "Expédition Mondiale",
+    "section6Text": "Nous emballons avec des matériaux durables et expédions vers plus de 50 pays. Le suivi est complet et l'expédition est assurée."
+  },
+  "admin": {
+    "title": "Panneau d'Administration",
+    "loginTitle": "Accès Administratif",
+    "loginSubtitle": "Ce panneau est exclusif aux administrateurs autorisés.",
+    "loginButton": "Accéder avec Email",
+    "stats": {
+      "totalOrders": "Commandes Totales",
+      "totalRevenue": "Revenus Totaux",
+      "totalProducts": "Produits",
+      "pendingOrders": "En Attente"
+    },
+    "products": {
+      "title": "Catalogue de Produits",
+      "newProduct": "Nouveau Produit",
+      "editProduct": "Modifier le Produit",
+      "tabs": {
+        "basic": "Informations de Base",
+        "translations": "Traductions",
+        "images": "Images"
+      },
+      "fields": {
+        "slug": "Slug (URL)",
+        "basePrice": "Prix de Base (USD)",
+        "category": "Catégorie",
+        "tags": "Étiquettes",
+        "origin": "Origine",
+        "material": "Matériau",
+        "care": "Entretien",
+        "sizes": "Tailles disponibles",
+        "stock": "Stock par taille",
+        "isActive": "Actif",
+        "isFeatured": "En Vedette"
+      },
+      "save": "Enregistrer le Produit",
+      "saving": "Enregistrement...",
+      "delete": "Supprimer",
+      "deleteConfirm": "Êtes-vous sûr de vouloir supprimer ce produit ?"
+    },
+    "orders": {
+      "title": "Gestion des Commandes",
+      "status": "Statut",
+      "paymentStatus": "Paiement",
+      "customer": "Client",
+      "total": "Total",
+      "date": "Date",
+      "actions": "Actions",
+      "updateStatus": "Mettre à Jour le Statut",
+      "viewDetails": "Voir les Détails"
+    },
+    "media": {
+      "title": "Bibliothèque Médias",
+      "upload": "Télécharger une Image",
+      "dragDrop": "Glissez et déposez des images ici",
+      "orClick": "ou cliquez pour sélectionner"
+    }
+  },
+  "errors": {
+    "generic": "Une erreur s'est produite",
+    "unauthorized": "Vous n'avez pas la permission d'accéder à cette page",
+    "productNotFound": "Produit non trouvé",
+    "sizeRequired": "Veuillez sélectionner une taille",
+    "outOfStock": "Produit épuisé dans la taille sélectionnée"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "title": "Indra Luxe — Luxury Clothing from India & Thailand",
+    "description": "Discover artisanal luxury clothing imported from India and Thailand. Unique handcrafted pieces. Worldwide shipping."
+  },
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "process": "Our Process",
+    "cart": "Cart",
+    "admin": "Dashboard",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "locale": {
+    "label": "Language",
+    "es": "Español",
+    "en": "English",
+    "fr": "Français",
+    "de": "Deutsch",
+    "hi": "हिन्दी",
+    "th": "ไทย"
+  },
+  "currency": {
+    "label": "Currency",
+    "USD": "US Dollar",
+    "EUR": "Euro",
+    "GBP": "British Pound",
+    "THB": "Thai Baht",
+    "INR": "Indian Rupee"
+  },
+  "hero": {
+    "title": "Art that Dresses the Soul",
+    "subtitle": "Artisanal luxury clothing imported from India and Thailand. Each piece tells a story of tradition, mastery, and fair trade.",
+    "ctaShop": "Explore Collection",
+    "ctaProcess": "Discover Our Process"
+  },
+  "home": {
+    "featuredTitle": "Featured Pieces",
+    "featuredSubtitle": "Selected for their exceptional craftsmanship",
+    "categoriesTitle": "Origin of Our Pieces",
+    "categoriesSubtitle": "Two ancient cultures, one standard of excellence",
+    "indiaTitle": "India",
+    "indiaDescription": "Hand-embroidered silks, ancient block-printing techniques, and fabrics passed down through generations.",
+    "thailandTitle": "Thailand",
+    "thailandDescription": "Organic cotton, natural dyes, and the refinement of Southeast Asian textile tradition.",
+    "testimonialsTitle": "What our customers say",
+    "newsletterTitle": "Join the Indra Circle",
+    "newsletterSubtitle": "Get exclusive access to new collections and stories from our artisans.",
+    "newsletterPlaceholder": "Your email address",
+    "newsletterButton": "Subscribe"
+  },
+  "shop": {
+    "title": "Collection",
+    "subtitle": "Each piece is unique, handcrafted by master artisans",
+    "filters": {
+      "all": "All",
+      "category": "Category",
+      "origin": "Origin",
+      "price": "Price",
+      "sort": "Sort by",
+      "sortNewest": "Newest",
+      "sortPriceLow": "Price: low to high",
+      "sortPriceHigh": "Price: high to low"
+    },
+    "noResults": "No products found",
+    "loadMore": "Load more"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "selectSize": "Select size",
+    "sizeGuide": "Size guide",
+    "description": "Description",
+    "details": "Details",
+    "material": "Material",
+    "origin": "Origin",
+    "care": "Care",
+    "relatedTitle": "You may also like"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "emptyCta": "Explore collection",
+    "quantity": "Quantity",
+    "size": "Size",
+    "remove": "Remove",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shippingFree": "Free",
+    "total": "Total",
+    "checkout": "Checkout",
+    "continueShopping": "Continue shopping",
+    "freeShipping": "Free shipping on orders over"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "shippingInfo": "Shipping Information",
+    "paymentInfo": "Secure Payment",
+    "fullName": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "city": "City",
+    "state": "State/Province",
+    "postalCode": "Postal code",
+    "country": "Country",
+    "orderSummary": "Order Summary",
+    "payNow": "Pay Now",
+    "processing": "Processing...",
+    "securePayment": "Secure payment with Stripe",
+    "error": "An error occurred. Please try again."
+  },
+  "success": {
+    "title": "Thank you for your Purchase!",
+    "subtitle": "Your order has been confirmed",
+    "orderNumber": "Order number",
+    "emailSent": "We've sent a confirmation email to",
+    "continueShopping": "Continue shopping"
+  },
+  "process": {
+    "title": "Our Process",
+    "subtitle": "From the heart of Asia to your wardrobe. Discover how each piece comes to life.",
+    "heroCta": "See the journey",
+    "section1Title": "Origin",
+    "section1Text": "Each piece begins its journey in small family workshops in Rajasthan, Kerala, Chiang Mai, and Bangkok. We select artisans directly, with no intermediaries.",
+    "section2Title": "Material Selection",
+    "section2Text": "We work exclusively with natural silk, organic cotton, pure linen, and plant-derived dyes. Each material is inspected individually.",
+    "section3Title": "Art & Mastery",
+    "section3Text": "Our artisans practice techniques handed down for centuries: zardozi embroidery, hand block-printing, waist-loom weaving, and batik dyeing.",
+    "section4Title": "Fair Trade",
+    "section4Text": "We pay fair prices that exceed 40% of the local standard. We fund education for our artisans' children and guarantee dignified working conditions.",
+    "section5Title": "Quality Control",
+    "section5Text": "Each piece goes through 3 levels of inspection before packaging. We verify stitching, finishes, color, and fabric drape.",
+    "section6Title": "Worldwide Shipping",
+    "section6Text": "We package with sustainable materials and ship to over 50 countries. Tracking is complete and shipping is insured."
+  },
+  "admin": {
+    "title": "Administration Panel",
+    "loginTitle": "Administrative Access",
+    "loginSubtitle": "This panel is exclusive for authorized administrators.",
+    "loginButton": "Access with Email",
+    "stats": {
+      "totalOrders": "Total Orders",
+      "totalRevenue": "Total Revenue",
+      "totalProducts": "Products",
+      "pendingOrders": "Pending"
+    },
+    "products": {
+      "title": "Product Catalog",
+      "newProduct": "New Product",
+      "editProduct": "Edit Product",
+      "tabs": {
+        "basic": "Basic Information",
+        "translations": "Translations",
+        "images": "Images"
+      },
+      "fields": {
+        "slug": "Slug (URL)",
+        "basePrice": "Base Price (USD)",
+        "category": "Category",
+        "tags": "Tags",
+        "origin": "Origin",
+        "material": "Material",
+        "care": "Care Instructions",
+        "sizes": "Available sizes",
+        "stock": "Stock by size",
+        "isActive": "Active",
+        "isFeatured": "Featured"
+      },
+      "save": "Save Product",
+      "saving": "Saving...",
+      "delete": "Delete",
+      "deleteConfirm": "Are you sure you want to delete this product?"
+    },
+    "orders": {
+      "title": "Order Management",
+      "status": "Status",
+      "paymentStatus": "Payment",
+      "customer": "Customer",
+      "total": "Total",
+      "date": "Date",
+      "actions": "Actions",
+      "updateStatus": "Update Status",
+      "viewDetails": "View Details"
+    },
+    "media": {
+      "title": "Media Library",
+      "upload": "Upload Image",
+      "dragDrop": "Drag and drop images here",
+      "orClick": "or click to select"
+    }
+  },
+  "errors": {
+    "generic": "An error has occurred",
+    "unauthorized": "You don't have permission to access this page",
+    "productNotFound": "Product not found",
+    "sizeRequired": "Please select a size",
+    "outOfStock": "Product out of stock in selected size"
+  }
+}
