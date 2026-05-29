@@ -14,7 +14,9 @@ export default async function AdminRootLayout({
 }) {
   const cookieStore = cookies();
   const adminEmail = process.env.ADMIN_EMAIL || "admin@indra-luxe.com";
-  const isMockMode = !process.env.NEXT_PUBLIC_SUPABASE_URL || process.env.NEXT_PUBLIC_SUPABASE_URL.includes("placeholder");
+  const SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL ?? process.env.SUPABASE_URL;
+  const SUPABASE_ANON_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY ?? process.env.SUPABASE_ANON_KEY;
+  const isMockMode = !SUPABASE_URL || SUPABASE_URL.includes("placeholder");
 
   if (isMockMode) {
     const hasMockSession = cookieStore.get("indra-luxe-admin-session")?.value === "active";
@@ -33,17 +35,17 @@ export default async function AdminRootLayout({
     return <AdminLayout user={mockUser as any}>{children}</AdminLayout>;
   }
 
-  const supabase = createServerClient(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
-    {
-      cookies: {
-        get(name: string) {
-          return cookieStore.get(name)?.value;
-        },
+  if (!SUPABASE_URL || !SUPABASE_ANON_KEY) {
+    redirect("/admin/login");
+  }
+
+  const supabase = createServerClient(SUPABASE_URL, SUPABASE_ANON_KEY, {
+    cookies: {
+      get(name: string) {
+        return cookieStore.get(name)?.value;
       },
-    }
-  );
+    },
+  });
 
   const {
     data: { session },
